@@ -30,6 +30,7 @@ pnpm-debug.log*
 
 # Package manager lock files
 package-lock.json
+!package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-store/
@@ -885,6 +886,11 @@ venv.bak/
 *.parquet
 data/
 datasets/
+
+# Allow tracked palette dataset
+!data/
+data/*
+!data/palette.json
 
 # ===== CUSTOM PROJECT FILES =====
 # Add any project-specific ignores here

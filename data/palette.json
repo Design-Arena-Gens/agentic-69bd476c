@@ -1,0 +1,1053 @@
+[
+  {
+    "category": "Abstract",
+    "topics": [
+      {
+        "id": 1,
+        "title": "Topic importance",
+        "rawTitle": "1. Topic importance",
+        "examples": [
+          "[X] plays a crucial role in ...",
+          "[X] is widely {{recognized as / considered to be}} key to ...",
+          "[X] is responsible for ...",
+          "[Xs] are among the most {{widely used / discussed / well-known / commonly investigated}} ...",
+          "[X] is generally regarded as the {{main / leading / major / primary}} cause of ...",
+          "It is {{well known / generally accepted}} that [X] is ...",
+          "The area of [X] is attracting {{growing attention / considerable interest}} because of ...",
+          "[X] has many {{uses / roles / applications}} in the field of ...",
+          "Some of the applications of [X] are ...",
+          "Findings on [X] can be applied to ...",
+          "Knowledge on [X] is needed for ..."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Knowledge gap",
+        "rawTitle": "2. Knowledge gap",
+        "examples": [
+          "Few studies have explored ...",
+          "Few researchers have addressed the {{problem / issue / question}} of ...",
+          "Despite the interest in [X], few studies have considered ...",
+          "The area of [X] has not been explored in depth.",
+          "To date, research on [X] has mostly {{focused on / been limited to}} ...",
+          "Previous studies have failed to address ...",
+          "Most studies on [X] have {{overlooked / neglected}} ...",
+          "The {{approaches / methodologies}} used have failed to provide ...",
+          "There is little {{agreement on / knowledge of}} ...",
+          "It remains unclear {{if / whether}} ...",
+          "It has not yet been established whether ...",
+          "The characteristics of [X] {{are not well understood / have not been dealt with in depth}} ...",
+          "Although this approach is interesting, it {{fails to account / does not allow}} for ...",
+          "A {{common / fundamental / crucial / major}} issue of ...",
+          "A neglected area in the field of ...",
+          "To our knowledge, no one has so far studied ..."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Study aim",
+        "rawTitle": "3. Study aim",
+        "examples": [
+          "This paper {{outlines / proposes / presents / discusses}} ...",
+          "This paper provides {{an overview / a review}} of ...",
+          "The aim of this work is to {{broaden / contribute to}} our knowledge of ...",
+          "This work aims to {{validate / call into question / assess}} the theory of ...",
+          "This {{investigation / study / analysis}} was carried out to ...",
+          "This study aims to {{determine / establish / clarify / reveal}} ...",
+          "This work describes the {{design / approach / implementation}} of ... ",
+          "This work {{investigates / examines / evaluates / explores}} ...",
+          "This work explores the {{association / correlation / relationship}} ...",
+          "This work examines the {{effect / influence / role / impact}} of ...",
+          "This work provides {{evidence of / insights into / support for}} ...",
+          "This paper discusses the {{case / relevance / problem / issue}} of ..."
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Study significance",
+        "rawTitle": "4. Study significance",
+        "examples": [
+          "This study provides {{important / new / key}} insights into ...",
+          "This study explores, for the first time, the ...",
+          "This work offers one of the first investigations into ...",
+          "This is the first {{work / study / experiment}} to ...",
+          "The results of this study will greatly contribute to ...",
+          "This work makes a {{significant / major / original}} contribution to the field of ... ",
+          "The outcomes of this trial will have serious implications for ...",
+          "This {{approach / method / work / study}} is original in its ...",
+          "While most studies focus on [X], this study ...",
+          "This research will {{benefit / offer / have an impact on}} ...",
+          "The present study is expected to contribute to our understanding of ... "
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Introducing method",
+        "rawTitle": "5. Introducing method",
+        "examples": [
+          "The experimental design referred to as [X] was used.",
+          "Data were collected following the [X] method.",
+          "The {{measurements / responses / scores}} were collected by means of ...",
+          "Using a [X] design, data were collected during ...",
+          "The method used is as {{described / followed / suggested / proposed}} by [Author].",
+          "We {{followed / adopted / adapted / refined}} the method used by [Author].",
+          "The approach is {{mainly / originally / primarily / partly}} based on ...",
+          "{{Alterations / adjustments}} made to [Author's] methods were ...",
+          "Further details on the adopted methodology can be found in ...",
+          "This method was in {{compliance with / accordance with}} ...",
+          "All researchers followed the procedures as outlined in ..."
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Summary of results",
+        "rawTitle": "6. Summary of results",
+        "examples": [
+          "{{In summary, / To sum up, / In conclusion,}} ...",
+          "We have {{presented / outlined / described}} ...",
+          "This paper has {{shown / provided / described / identified / demonstrated}} ...",
+          "In this {{paper / study / review}}, we have ...",
+          "Overall, these results {{suggest / indicate}} that ...",
+          "Taken together, these findings {{suggest / demonstrate}} that ...",
+          "The results of this study {{suggest / indicate / show / reveal}} that ...",
+          "The results reported here {{confirm that / provide further evidence for}} ... ",
+          "These results emphasize the {{importance / validity}} of ...",
+          "The data presented here {{underlie / stress / highlight}} ...",
+          "These results broaden our understanding of ..."
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Study contribution",
+        "rawTitle": "7. Study contribution",
+        "examples": [
+          "This paper provides new insights into ... ",
+          "This work has presented a novel {{approach to / method for / way of}} ...",
+          "Our study provides the {{foundation / basis / tools / case}} for a new way of ...",
+          "We have found an innovative {{approach / method / solution / strategy / technique}} for ...",
+          "We have devised a {{method / technique / system / model}} that ...",
+          "We have obtained {{satisfactory / excellent / encouraging}} results demonstrating that ...",
+          "The results of this study {{underline / highlight / stress}} that ...",
+          "Our research has {{highlighted / stressed / underlined}} the importance of ...",
+          "The {{strength / novelty / usefulness / significance}} of our work lies in ...",
+          "These findings add substantially to our understanding of ...",
+          "This study contributes to the area of ... "
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Conclusion",
+    "topics": [
+      {
+        "id": 39,
+        "title": "Summary of results",
+        "rawTitle": "39. Summary of results",
+        "examples": [
+          "{{In summary, / To sum up, / In conclusion,}} ...",
+          "We have {{presented / outlined / described}} ...",
+          "This paper has {{shown / provided / described / identified / demonstrated}} ...",
+          "In this {{paper / study / review}}, we have ...",
+          "Overall, these results {{suggest / indicate}} that ...",
+          "Taken together, these findings {{suggest / demonstrate}} that ...",
+          "The results of this study {{suggest / indicate / show / reveal}} that ...",
+          "The results reported here {{confirm that / provide further evidence for}} ... ",
+          "These results emphasize the {{importance / validity}} of ...",
+          "The data presented here {{underlie / stress / highlight}} ...",
+          "These results broaden our understanding of ..."
+        ]
+      },
+      {
+        "id": 40,
+        "title": "Study contribution",
+        "rawTitle": "40. Study contribution",
+        "examples": [
+          "This paper provides new insights into ... ",
+          "This work has presented a novel {{approach to / method for / way of}} ...",
+          "Our study provides the {{foundation / basis / tools / case}} for a new way of ...",
+          "We have found an innovative {{approach / method / solution / strategy / technique}} for ...",
+          "We have devised a {{method / technique / system / model}} that ...",
+          "We have obtained {{satisfactory / excellent / encouraging}} results demonstrating that ...",
+          "The results of this study {{underline / highlight / stress}} that ...",
+          "Our research has {{highlighted / stressed / underlined}} the importance of ...",
+          "The {{strength / novelty / usefulness / significance}} of our work lies in ...",
+          "These findings add substantially to our understanding of ...",
+          "This study contributes to the area of ... "
+        ]
+      },
+      {
+        "id": 41,
+        "title": "Limitations",
+        "rawTitle": "41. Limitations",
+        "examples": [
+          "{{Despite / in spite of}} limitations due to [X], we believe our work ...",
+          "The most important limitation {{lies in / is due to / is a result of}} the fact that ...",
+          "The current study was {{limited to / unable to / not specifically designed to}} ...",
+          "The present study has only {{examined / investigated / explored}} [X]. Therefore, ...",
+          "The {{study / sample / data}} was limited in several ways. First, ...",
+          "However, given the small sample size, caution must be {{used / taken / applied}}.",
+          "The findings might not be {{representative of / transferable to / generalizable to}} ...",
+          "Some {{limitations / disadvantages / constraints / shortcomings}} should be considered. First, ..."
+        ]
+      },
+      {
+        "id": 42,
+        "title": "Implications / applications",
+        "rawTitle": "42. Implications / applications",
+        "examples": [
+          "The {{method / technique}} used here can be applied to ...",
+          "The findings of this study have several implications for ...",
+          "These results provide a significant first step towards ... ",
+          "This work can be {{beneficial / helpful / valuable}} in ...",
+          "This work has {{revealed / shown / highlighted / demonstrated / proved}} that ...",
+          "Our {{study / method / approach / model}} has the potential to ... ",
+          "Our {{method / results / approach / model}} could be applied to ...",
+          "One {{possible / potential / promising}} application of our results would be ...",
+          "The present findings might help to solve the problem of ...",
+          "This could {{potentially / eventually / ultimately / subsequently}} lead to ...",
+          "[X] could be {{used / considered / performed / undertaken}} in order to ...",
+          "{{Another / An additional / A further}} implication is ..."
+        ]
+      },
+      {
+        "id": 43,
+        "title": "Future research",
+        "rawTitle": "43. Future research",
+        "examples": [
+          "This study provides {{the backbone / the basis / a springboard}} for ...",
+          "Future studies should {{aim to / focus on / investigate / concentrate on}} ... ",
+          "More research should {{investigate / address / focus on / explore / look into}} ...",
+          "Future research should consider the potential effects of ...",
+          "{{Additional / More}} studies are needed to ...",
+          "Additional data collection would help to determine ...",
+          "{{Closer inspection / Further analysis}} is needed to ...",
+          "This is a {{key / fundamental}} area to be explored further.",
+          "Future studies on [X] are {{recommended / suggested / needed}} to ...",
+          "We {{recommend / suggest / propose}} that future research examines ...",
+          "Further research is needed to {{investigate / evaluate / assess / determine}} ...",
+          "These findings suggest the following {{direction / avenue / recommendations}} for future research: ...",
+          "An important {{issue / problem / question}} to address is ...",
+          "Our results are {{encouraging / promising}} and should be validated by a larger sample size.",
+          "Research into solving this problem is already {{underway / in progress}}."
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Connectors",
+    "topics": [
+      {
+        "id": 49,
+        "title": "Cause and effect",
+        "rawTitle": "49. Cause and effect",
+        "examples": [
+          "Consequently, ...",
+          "As a consequence, ...",
+          "For this reason, ...",
+          "As a result, ...",
+          "Therefore, ...",
+          "Thus, ...",
+          "Hence, ..."
+        ]
+      },
+      {
+        "id": 50,
+        "title": "Similarities",
+        "rawTitle": "50. Similarities",
+        "examples": [
+          "Likewise, ...",
+          "Equally, ...",
+          "Similarly, ...",
+          "In the same way, ..."
+        ]
+      },
+      {
+        "id": 51,
+        "title": "Differences / contrast",
+        "rawTitle": "51. Differences / contrast",
+        "examples": [
+          "Conversely, ...",
+          "Instead, ...",
+          "On the contrary, ...",
+          "On the other hand, ...",
+          "Nevertheless, ...",
+          "Nonetheless, ...",
+          "However, ..."
+        ]
+      },
+      {
+        "id": 52,
+        "title": "Examples",
+        "rawTitle": "52. Examples",
+        "examples": [
+          "For instance, ...",
+          "For example, ...",
+          "An / One example is ...",
+          "To illustrate, ..."
+        ]
+      },
+      {
+        "id": 53,
+        "title": "Addition",
+        "rawTitle": "53. Addition",
+        "examples": [
+          "Also, ...",
+          "Further, ...",
+          "In addition, ...",
+          "Furthermore, ...",
+          "Moreover, ...",
+          "Besides, ..."
+        ]
+      },
+      {
+        "id": 54,
+        "title": "Condition",
+        "rawTitle": "54. Condition",
+        "examples": [
+          "Granted that ...",
+          "Provided that ...",
+          "Only if ..."
+        ]
+      },
+      {
+        "id": 55,
+        "title": "Conclusion",
+        "rawTitle": "55. Conclusion",
+        "examples": [
+          "To conclude, ...",
+          "Given these points, ...",
+          "In summary, ...",
+          "To sum up, ..."
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Discussion",
+    "topics": [
+      {
+        "id": 35,
+        "title": "Highlighting results",
+        "rawTitle": "35. Highlighting results",
+        "examples": [
+          "{{Interestingly, / Surprisingly, / Importantly}}, the results reveal ...",
+          "A somewhat {{surprising / remarkable}} relationship was ...",
+          "An unexpected observation reported in section [X] was ...",
+          "While the expected finding was [X], this study showed ...",
+          "One interesting aspect that emerged from the analysis is ...",
+          "Interestingly, it was also observed that ...",
+          "Altogether, what particularly stands out is ... ",
+          "The most striking observation to emerge from the analysis was ...",
+          "The most {{important / interesting / significant}} aspect of the data was the ...",
+          "The most {{interesting / significant}} observation emerging from our data was ...",
+          "The single most striking difference revealed was ...",
+          "This {{gap / increase / relationship}} is worth highlighting, as ...",
+          "As discussed in the Results section, there was a {{striking / notable / clear}} ...",
+          "This study appears to be the first to find that ..."
+        ]
+      },
+      {
+        "id": 36,
+        "title": "Studies with similar results",
+        "rawTitle": "36. Studies with similar results",
+        "examples": [
+          "The results {{confirm / validate / reinforce / corroborate}} ...",
+          "The results are {{in line with / in agreement with / consistent with}} ...",
+          "These results are in line with those obtained by ...",
+          "These results provide support for [Author's] theory that ...",
+          "Similar results were obtained in the experiment by ...",
+          "These findings confirm those of earlier studies, such as ...",
+          "Our findings support [Author's] hypothesis that ...",
+          "Similar to [Author's] work, the present study shows ...",
+          "The collected data are consistent with [Author's], who ...",
+          "Similar trends have been reported by [Authors] in their work on ...",
+          "Similar conclusions were drawn by [Author], who ...",
+          "[Authors] similarly conclude from their data that ...",
+          "The {{pattern / increase / trend}} found here corresponds to that of ...",
+          "An equally large difference has been observed by ..."
+        ]
+      },
+      {
+        "id": 37,
+        "title": "Studies with different results",
+        "rawTitle": "37. Studies with different results",
+        "examples": [
+          "In contrast to earlier findings of [Author], these results suggest ...",
+          "These results are not in line with those of [Authors], who found ...",
+          "Contrary to what has been reported by [Author], these results indicate ...",
+          "The results do not confirm previous research by [Author], which ...",
+          "{{Whereas / Although}} [Author] found [X], these results indicate ...",
+          "These results differ {{slightly / considerably}} from those reported by [Author].",
+          "The {{growth / trend / decline}} found by [Author] was not witnessed in ...",
+          "These data are not consistent with those reported by [Author], who ...",
+          "Data presented by [Author] show different patterns in ...",
+          "The data showed a trend different from the one observed in ...",
+          "Although this study also showed [X], there is a significant gap between ...",
+          "These metrics do not support the {{conclusions / hypothesis / claim}} of ...",
+          "The current study {{disproves / refutes / differs from}} previous studies on ...",
+          "These contradictory results may be the result of differences in ..."
+        ]
+      },
+      {
+        "id": 38,
+        "title": "Study limitations",
+        "rawTitle": "38. Study limitations",
+        "examples": [
+          "These results need to be interpreted with {{caution / care}}, because ...",
+          "Extreme caution must be excercised in interpreting these data, as ...",
+          "Given the study design, it was inevitable that ...",
+          "A {{downside / limitation}} of the methodology used is ... ",
+          "This methodological decision {{may have led to / might have affected}} ...",
+          "This study failed to account for ...",
+          "The reported {{inaccuracies / discrepancies}} were likely due to ...",
+          "These different results can be partly explained by ... ",
+          "Due to [X], many questions remain unanswered, such as ...",
+          "As with most survey designs, responses may have been affected by ...",
+          "Common method bias may have {{affected / inflated}} ...",
+          "These findings might not be {{representative of / transferable to}} ...",
+          "These conflicting results signal the need for additional studies on...",
+          "Considering the limited [X], further research is needed ..."
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Introduction",
+    "topics": [
+      {
+        "id": 8,
+        "title": "Topic importance",
+        "rawTitle": "8. Topic importance",
+        "examples": [
+          "[X] plays a crucial role in ...",
+          "[X] is widely {{recognized as / considered to be}} key to ...",
+          "[X] is responsible for ...",
+          "[Xs] are among the most {{widely used / discussed / well-known / commonly investigated}} ...",
+          "[X] is generally regarded as the {{main / leading / major / primary}} cause of ...",
+          "It is {{well known / generally accepted}} that [X] is ...",
+          "The area of [X] is attracting {{growing attention / considerable interest}} because of ...",
+          "[X] has many {{uses / roles / applications}} in the field of ...",
+          "Some of the applications of [X] are ...",
+          "Findings on [X] can be applied to ...",
+          "Knowledge on [X] is needed for ..."
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Study aim",
+        "rawTitle": "9. Study aim",
+        "examples": [
+          "This paper {{outlines / proposes / presents / discusses}} ...",
+          "This paper provides {{an overview / a review}} of ...",
+          "The aim of this work is to {{broaden / contribute to}} our knowledge of ...",
+          "This work aims to {{validate / call into question / assess}} the theory of ...",
+          "This {{investigation / study / analysis}} was carried out to ...",
+          "This study aims to {{determine / establish / clarify / reveal}} ...",
+          "This work describes the {{design / approach / implementation}} of ... ",
+          "This work {{investigates / examines / evaluates / explores}} ...",
+          "This work explores the {{association / correlation / relationship}} ...",
+          "This work examines the {{effect / influence / role / impact}} of ...",
+          "This work provides {{evidence of / insights into / support for}} ...",
+          "This paper discusses the {{case / relevance / problem / issue}} of ..."
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Study significance",
+        "rawTitle": "10. Study significance",
+        "examples": [
+          "This study provides {{important / new / key}} insights into ...",
+          "This study explores, for the first time, the ...",
+          "This work offers one of the first investigations into ...",
+          "This is the first {{work / study / experiment}} to ...",
+          "The results of this study will greatly contribute to ...",
+          "This work makes a {{significant / major / original}} contribution to the field of ... ",
+          "The outcomes of this trial will have serious implications for ...",
+          "This {{approach / method / work / study}} is original in its ...",
+          "While most studies focus on [X], this study ...",
+          "This research will {{benefit / offer / have an impact on}} ...",
+          "The present study is expected to contribute to our understanding of ... "
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Terminology",
+        "rawTitle": "11. Terminology",
+        "examples": [
+          "[Term] is usually defined as ...",
+          "The term [term] has been used to denominate ...",
+          "In this article, the term [term] will be used to refer to ...",
+          "Throughout this work, [term] will represent ...",
+          "In this {{study / paper / work / chapter}}, [term] refers to ...",
+          "The terms [term] and [term] are here used interchangeably meaning ...",
+          "This paper will use the definition proposed by [Author], which is ...",
+          "According to [Author], [term] can be considered a ...",
+          "[Term] has been defined by [Author] as ...",
+          "[Author] has proposed the following definition of [term]: ...",
+          "[Author] uses the term [term] to refer to ...",
+          "[Term] is a type of ...",
+          "There are two types of [term], namely ... and ...",
+          "The acronym [acronym] {{stands for / denotes}} ...",
+          "The word [term] has multiple meanings.",
+          "The literature provides no clear definition of [term]."
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Paper structure",
+        "rawTitle": "12. Paper structure",
+        "examples": [
+          "This article is organized as follows: ...",
+          "This paper has been divided into the following parts: ...",
+          "Part [X] of this paper introduces ...",
+          "Section [X] {{examines / explores / discusses}} ...",
+          "This is followed by section [X], which ...",
+          "Chapter [X] is concerned with ...",
+          "The experimental setup is outlined in section ...",
+          "The next {{section / chapter}} considers ...",
+          "The paper will then go on to {{analyze / introduce / review}} ...",
+          "Sections [X] and [X] {{cover / outline / include / provide}} ...",
+          "Section [X] presents the methodology and section [X] shows the results.",
+          "Each of the sections provides an overview of ..."
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Literature",
+    "topics": [
+      {
+        "id": 13,
+        "title": "Topic trends",
+        "rawTitle": "13. Topic trends",
+        "examples": [
+          "Most research on [X] has focused on ...",
+          "[X] has attracted considerable attention from ...",
+          "Several studies have found [X] to be ...",
+          "In the 2000s, [X] was {{considered to be / viewed as / seen as}} ...",
+          "Early studies on [X] considered it to be ...",
+          "Early works in this area focused primarily on ...",
+          "While early studies believed [X] to be ..., recent studies ...",
+          "Early findings on [X] led to ...",
+          "Recent {{findings in / developments regarding}} [X] have led to ...",
+          "The last decade has witnessed {{an increase / a growth / renewed interest}} in ...",
+          "Over the last ten years, the focus has shifted to ...",
+          "Since 2010, there has been {{a rapid rise / an increase in}} ...",
+          "[X] has become {{a central / an important / a critical}} issue in ..."
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Knowledge gap",
+        "rawTitle": "14. Knowledge gap",
+        "examples": [
+          "Few studies have explored ...",
+          "Few researchers have addressed the {{problem / issue / question}} of ...",
+          "Despite the interest in [X], few studies have considered ...",
+          "The area of [X] has not been explored in depth.",
+          "To date, research on [X] has mostly {{focused on / been limited to}} ...",
+          "Previous studies have failed to address ...",
+          "Most studies on [X] have {{overlooked / neglected}} ...",
+          "The {{approaches / methodologies}} used have failed to provide ...",
+          "There is little {{agreement on / knowledge of}} ...",
+          "It remains unclear {{if / whether}} ...",
+          "It has not yet been established whether ...",
+          "The characteristics of [X] {{are not well understood / have not been dealt with in depth}} ...",
+          "Although this approach is interesting, it {{fails to account / does not allow}} for ...",
+          "A {{common / fundamental / crucial / major}} issue of ...",
+          "A neglected area in the field of ...",
+          "To our knowledge, no one has so far studied ..."
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Study review: positive",
+        "rawTitle": "15. Study review: positive",
+        "examples": [
+          "In their {{groundbreaking / seminal}} paper, [Authors] ...",
+          "In their widely acclaimed work, [Authors] discuss ...",
+          "Taking into account these limitations, [Author] manages to provide ...",
+          "[Author's] work has made a significant contribution to the field by ...",
+          "The study by [Author] has shed more light on ...",
+          "[Author's] results contribute to our understanding of ...",
+          "[Author] provides a {{detailed / thorough}} analysis of ...",
+          "[Author] offers a comprehensive {{overview / analysis / review}} of ...",
+          "[Author] draws on an extensive range of sources to provide ...",
+          "[Author] has provided the most in-depth analysis to date of ...",
+          "[Author] presents a rigorous technique applicable to ...",
+          "In their carefully designed study, [Authors] found ...",
+          "[Author] controlled for ...",
+          "The 2019 paper by [Author] is known for its {{careful / in-depth}} analysis of ...",
+          "The approach introduced by [Author] is acclaimed for its ..."
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Study review: neutral",
+        "rawTitle": "16. Study review: neutral",
+        "examples": [
+          "[Author] {{suggested / demonstrated / proposed / reported}} that ...",
+          "[Author] {{considered / examined / analyzed / discussed}} ...",
+          "Results reported by [Author] suggest that ...",
+          "The work by [Author] {{suggests / indicates}} ...",
+          "In their 2017 paper, [Authors] reported ...",
+          "A recent analysis by [Author] {{reveals / highlights}} that ...",
+          "In their systematic literature review, [Authors] found ...",
+          "[Author] reached the conclusion that ...",
+          "The study by [Author] offers {{an analysis / a review}} of ...",
+          "In their 2016 study, [Authors] {{measured / calculated / evaluated / assessed}} ...",
+          "In a {{longitudinal / cross-sectional / randomized controlled}} study, [Author] ...",
+          "[Author] points to some of the ways in which ...",
+          "[Author] performed an {{experiment / analysis}} to find ...",
+          "The aim of the study by [Author] was to ..."
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Study review: negative",
+        "rawTitle": "17. Study review: negative",
+        "examples": [
+          "A serious limitation of [Author's] study is ...",
+          "[Author] {{overlooks / ignores / fails to explain}} ...",
+          "[Author] fails to provide an answer to the question ...",
+          "[Author] does not {{consider / take into account}} ...",
+          "The study by [Author] leaves many questions unanswered.",
+          "{{Limitations / Disadvantages}} of the methodology used by [Author] are ...",
+          "The authors are selective in their presentation of ...",
+          "[Author's] conclusions do not seem valid, because ...",
+          "The conclusions drawn by [Author] are {{speculative / inaccurate}}, as ...",
+          "These conclusions are not {{supported by / possible in the absence of}} ...",
+          "The lack of statistical significance may be due to the ...",
+          "[Author] used {{a small / a limited / an insufficient}} sample size of ... ",
+          "[Authors] did not report {{means / standard deviations / reliability scores}} for ...",
+          "Unfortunately, [Author] did not provide {{data on / full details of}} ...",
+          "Due to a lack of {{data / responses}}, [Author] failed to ..."
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Study review: author focus",
+        "rawTitle": "18. Study review: author focus",
+        "examples": [
+          "[Author] {{believes / holds / maintains / declares}} that ...",
+          "[Author] {{claims / argues / insists / upholds}} that ...",
+          "[Author] {{concludes / draws the conclusion}} that ...",
+          "[Author] {{draws attention to / points out that}} ...",
+          "[Author] {{applauds / praises / supports / follows / agrees with}} ...",
+          "[Author] {{accepts / recognizes / acknowledges}} ...",
+          "[Author] {{questions / calls into question / challenges / debates}} ...",
+          "[Author] {{objects to / discards / dismisses / opposes / criticizes}} ...",
+          "[Author] {{emphasizes / highlights / underscores / stresses}} ...",
+          "[Author] {{hypothesizes / theorizes / speculates}} ...",
+          "[Author] {{proposes / asserts / advises / recommends / advocates}} ...",
+          "[Author] {{uses / relies on / draws from / adheres to}} ...",
+          "[Author] {{remarks / comments / mentions}} ..."
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Study agreements",
+        "rawTitle": "19. Study agreements",
+        "examples": [
+          "{{Similarly / In the same vein / Likewise}}, [Author] ...",
+          "Similar to [Author], [Author] ...",
+          "[Author's] findings {{support / are in line with}} those of [Author], who ...",
+          "[Author's] results are {{consistent with / comparable to / similar to}} those obtained by ...",
+          "[Author's] observations further corroborate [Author's] hypothesis that ...",
+          "[Author's] data confirm [Author's] point that ...",
+          "[Author's] results validate the existing theory on ...",
+          "{{Both / Some / Several / Various}} studies have shown ...",
+          "[Author's] study extends work by [Author] on ...",
+          "The work of both [Author] and [Author] focused on ...",
+          "[Author's] view is supported by [Author], who ...",
+          "[Author's] experimental setup is {{based on / a variation on / identical to}} the one of [Author].",
+          "[Author] used a {{design / approach / method}} comparable to [Author]."
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Study disagreements",
+        "rawTitle": "20. Study disagreements",
+        "examples": [
+          "{{To the contrary, / Conversely,}} [Author] ...",
+          "{{Unlike / In contrast to}} [Author], [Author] ...",
+          "[Author's] results differ from those obtained by [Author], who ...",
+          "[Author's] conclusions do not follow those of [Author], which ...",
+          "There is disagreement between the data presented by [Author] and [Author].",
+          "While [Author] found [X], [Author's] results indicate ...",
+          "[Author] adopts another perspective, {{stating / claiming / maintaining}} that ...",
+          "While [Author] argues [X], [Author] believes that ...",
+          "[Author] focuses on [X], whereas [Author] is primarily concerned with ...",
+          "[Author] and [Author] differ in their ...",
+          "[Author] provides a more {{elaborate / systematic / thorough}} analysis than ...",
+          "[Author] questions [Author's] {{approach / results / method}} ..."
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Author quotes",
+        "rawTitle": "21. Author quotes",
+        "examples": [
+          "As [Author] {{argues / explains / notes / observes}}: \"...\".",
+          "As stated by [Author], \"...\".",
+          "In Chapter [2], [Author] writes: \"...\".",
+          "[Author] summarizes these results as follows: \"...\".",
+          "In interpreting the data, [Author] observes that \"...\".",
+          "As noted in the conclusion, \"...\".",
+          "In their most recent paper, [Authors] argue that \"...\".",
+          "[Author's] {{assumption / view}} is that \"...\".",
+          "The author defines [X] as follows: \"...\".",
+          "[Author] refers to these aspects as \"...\" and \"...\".",
+          "In [Author's] work, this concept is described as \"...\".",
+          "The following definition has been given by [Author]: \"...\".",
+          "While considered a \"...\" by [Author], [Author] regards it as a \"...\".",
+          "[Author] chose this method for its \"...\"."
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Methods",
+    "topics": [
+      {
+        "id": 22,
+        "title": "Introducing method",
+        "rawTitle": "22. Introducing method",
+        "examples": [
+          "The experimental design referred to as [X] was used.",
+          "Data were collected following the [X] method.",
+          "The {{measurements / responses / scores}} were collected by means of ...",
+          "Using a [X] design, data were collected during ...",
+          "The method used is as {{described / followed / suggested / proposed}} by [Author].",
+          "We {{followed / adopted / adapted / refined}} the method used by [Author].",
+          "The approach is {{mainly / originally / primarily / partly}} based on ...",
+          "{{Alterations / adjustments}} made to [Author's] methods were ...",
+          "Further details on the adopted methodology can be found in ...",
+          "This method was in {{compliance with / accordance with}} ...",
+          "All researchers followed the procedures as outlined in ..."
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Method purpose",
+        "rawTitle": "23. Method purpose",
+        "examples": [
+          "To {{measure / establish}} whether ..., [X] was used.",
+          "In order to identify [X], the subjects were asked to ...",
+          "For the purpose of [X] measurement, subjects were asked to ...",
+          "To rule out the possibility that [X], the participants were ...",
+          "In order to understand the process of [X], a series of {{analyses / experiments}} were performed.",
+          "These were {{designed / arranged / prepared}} in such a way that ...",
+          "Because we were interested in [X], we considered only ...",
+          "To control for bias, analyses were carried out using [X]. ",
+          "The process was repeated several times in order to {{obtain / avoid / remove}} ..."
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Method benefits",
+        "rawTitle": "24. Method benefits",
+        "examples": [
+          "This method is one of the most {{effective / reliable / efficient}} to ...",
+          "The {{main / major / principal / primary}} advantages of this method are ...",
+          "We {{opted for / chose}} this method on the basis of ...",
+          "A [X] approach was {{used / chosen}} because ...",
+          "One advantage of the [X] analysis is that it avoids the problem of ...",
+          "This study uses [X] analysis in order to gain insights into ...",
+          "{{Quantitative / qualitative}} methods offer an effective way of ...",
+          "This method represents a {{viable / valuable / useful / valid}} alternative to ...",
+          "This model has the {{ability / capacity / potential}} to outperform previous [X].",
+          "Our method has many {{practical / important / potential}} applications."
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Experimental setup",
+        "rawTitle": "25. Experimental setup",
+        "examples": [
+          "[X] was prepared according to the procedure used by [Author].",
+          "The {{instrument / device / software}} used was ...",
+          "Samples were prepared as described by [Author].",
+          "Samples were {{collected from / obtained from / stored in}} ...",
+          "The samples were {{treated with / frozen at / reheated to / subjected to}} ...",
+          "All samples were carefully checked for ...",
+          "The sample was {{homogenous / heterogeneous}} with respect to ...",
+          "The sample size in this study was considered ..."
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Participants",
+        "rawTitle": "26. Participants",
+        "examples": [
+          "A total of [number] subjects {{participated in / were recruited for}} this study.",
+          "A random sample of {{subjects / patients}} with [X] was recruited from ...",
+          "The subjects were selected on the basis of ...",
+          "Criteria for selecting patients were as follows: ...",
+          "The subject pool {{consisted of / covered a range of}} ...",
+          "[Number] individuals were excluded from the study on the basis of ...",
+          "Of the initial cohort, [X] were female and [X] were male.",
+          "The {{subjects / patients}} were divided into two groups based on ...",
+          "The {{experimental group / control group}} was given ...",
+          "Semi-structured interviews were conducted with [X] subjects.",
+          "All {{subjects / participants}} signed a form to ...",
+          "Written informed consent was obtained from all {{participants / subjects}}.",
+          "Prior to undertaking the study, ethical clearance was obtained from ..."
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Analysis",
+        "rawTitle": "27. Analysis",
+        "examples": [
+          "All statistical analyses were performed using ...",
+          "[X] was measured using ...",
+          "Data were {{obtained / collected / processed / analyzed / visualized}} using ...",
+          "Data analysis was performed with the software ...",
+          "The data were recorded by [X] and transcribed using ...",
+          "We performed additional data collection with ...",
+          "The data were normalized using ...",
+          "Missing values were excluded from the analysis.",
+          "Descriptive data were {{obtained / generated / reported}} for all variables.",
+          "Interview {{data / transcripts}} were analyzed using ...",
+          "Samples were analyzed for [X] as previously reported by [Author].",
+          "Significance levels were set at p > ...",
+          "Statistical significance was determined using ...",
+          "A [X] test was used to {{assess / determine}} the significance of the data.",
+          "[X] was used to test the null hypothesis that ...",
+          "Regression analysis was used to predict the ...",
+          "The relationship between [X] and [X] was explored using ...",
+          "The difference between [X] and [X] was analyzed using ...",
+          "The {{growth / decline}} of [X] was analyzed using ..."
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Results",
+    "topics": [
+      {
+        "id": 28,
+        "title": "Tables / figures",
+        "rawTitle": "28. Tables / figures",
+        "examples": [
+          "Figure [X] shows a strong correlation between ...",
+          "{{Table / Figure}} [X] reveals a relationship between ...",
+          "{{Table / Figure}} [X] shows a considerable difference between ...",
+          "{{Table / Figure}} [X] shows an increase in ...",
+          "Figure [X] shows a clear trend of decreasing ...",
+          "From {{Table / Figure}} [X], it can be noted that ... ",
+          "As {{shown / highlighted / detailed}} in Table [X], ...",
+          "As can be seen in {{Table / Figure}} [X], ...",
+          "The results of these tests are presented in Table [X].",
+          "Table [X] {{compares / summarizes / lists}} ...",
+          "Table [X] provides an overview of the data from ...",
+          "{{Table / Figure}} [X] shows no considerable difference between ...",
+          "As {{Table / Figure}} [X] shows, there was no increase in ..."
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Significant results",
+        "rawTitle": "29. Significant results",
+        "examples": [
+          "A significant difference was found between ...",
+          "The tests revealed a significant difference between ...",
+          "This result is significant at the p < ... level.",
+          "A significant positive correlation was found between ...",
+          "These results show a significant relationship between ...",
+          "The tests revealed a {{weak / moderate / strong}} correlation between ...",
+          "These numbers suggest that [X] affects ...",
+          "Respondents who reported low levels of [X] also reported significantly lower levels of [X].",
+          "{{Strong / Further / Some}} evidence of [X] was found that ...",
+          "Results {{show / indicate / reveal / confirm}} that ...",
+          "Figure [X] shows a strong correlation between ...",
+          "{{Table / Figure}} [X] reveals a relationship between ...",
+          "Figure [X] shows a clear trend of decreasing ...",
+          "Further {{analysis / investigation / experiments / data}} showed that ..."
+        ]
+      },
+      {
+        "id": 30,
+        "title": "Non-significant results",
+        "rawTitle": "30. Non-significant results",
+        "examples": [
+          "No evidence of [X] was found.",
+          "No significant difference was found between ...",
+          "The tests revealed no significant difference between ...",
+          "No significant correlation was {{seen / observed / noted}} between ...",
+          "There were no significant differences between group [X] and group [X] in terms of ...",
+          "The analysis did not {{show / reveal}} any significant differences between ...",
+          "None of these differences were statistically significant.",
+          "No {{noteworthy / substantial}} differences were found between ...",
+          "These results indicate there is no significant relationship between ...",
+          "The {{results / tests / data}} showed no correlation between ...",
+          "Overall, our results show that [X] did not affect [X].",
+          "[X] appeared to be unaffected by [X].",
+          "There was no evidence that [X] had an influence on ...",
+          "These numbers suggest that [X] does not affect [X].",
+          "No increase in [X] was detected.",
+          "As {{Table / Figure}} [X] shows, there was no increase in ...",
+          "{{Table / Figure}} [X] shows no considerable difference between ...",
+          "Only {{small / low}} amounts of [X] were detected in ..."
+        ]
+      },
+      {
+        "id": 31,
+        "title": "Interesting results",
+        "rawTitle": "31. Interesting results",
+        "examples": [
+          "What is {{striking / interesting / noticeable}} here is ...",
+          "This is a rather {{surprising / interesting / remarkable / unexpected / rare}} result.",
+          "This result is somewhat {{surprising / counter-intuitive}}.",
+          "Interestingly, this correlation is related to ...",
+          "The correlation between [X] and [X] is {{surprising / interesting}} because ...",
+          "Interestingly, there are also differences in ...",
+          "{{Surprisingly / Unexpectedly}}, only a minority of respondents ...",
+          "This decline is particularly surprising considering ...",
+          "The most striking result to emerge from {{Table / Figure}} [X] is that ...",
+          "The scores presented in Table [X] are remarkable, as ...",
+          "From the data shown in Table [X], it is apparent that ..."
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Interpreting results",
+        "rawTitle": "32. Interpreting results",
+        "examples": [
+          "The correlation between [X] and [X] {{indicates / suggests}} ...",
+          "This increase {{might be due to / can be explained by}} ...",
+          "This {{increase / growth}} is likely caused by ...",
+          "The observed increase in [X] could be interpreted as ...",
+          "This decrease is {{certainly / undoubtedly}} due to ...",
+          "There might be various reasons for this decrease.",
+          "One {{possible / reasonable}} explanation for this decrease is that ... ",
+          "These numbers deviate from those in Table [X] because ...",
+          "These results do not show any evidence of ...",
+          "The difference in results can be explained by ..."
+        ]
+      },
+      {
+        "id": 33,
+        "title": "Surveys / interviews",
+        "rawTitle": "33. Surveys / interviews",
+        "examples": [
+          "Of the {{study population / initial sample / patient cohort}}, [X] subjects ...",
+          "The response rate was [X%] at [X] months and [X%] at [X] months.",
+          "Over half of those {{surveyed / questioned}} reported that ...",
+          "The majority of {{respondents / those who responded}} felt that ...",
+          "{{Almost / Just under / Approximately}} two-thirds of the participants felt that ...",
+          "Only a small number of those interviewed {{reported / suggested / indicated}} that ...",
+          "Of the [X] subjects who completed the {{questionnaire / survey}}, half ...",
+          "{{A small minority of / Hardly any / Very few}} participants indicated ...",
+          "In response to [Question X], {{most / nearly all / the majority of}} subjects indicated that ...",
+          "When {{asked about / questioned on}} [X], most respondents commented that ...",
+          "The overall response to this question was {{surprisingly / unexpectedly}} positive.",
+          "A common view amongst {{participants / respondents}} was that ...",
+          "One concern expressed by {{participants / respondents}} regarding [X] was whether ..."
+        ]
+      },
+      {
+        "id": 34,
+        "title": "Summarizing results",
+        "rawTitle": "34. Summarizing results",
+        "examples": [
+          "Overall, these results {{suggest / indicate}} that ...",
+          "In summary, these results show that ...",
+          "Taken together, these results suggest {{a relationship / an association}} between ...",
+          "The results in this chapter indicate that ... "
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Statements",
+    "topics": [
+      {
+        "id": 44,
+        "title": "Acknowledgements",
+        "rawTitle": "44. Acknowledgements",
+        "examples": [
+          "The authors wish to acknowledge [Name] for ...",
+          "The authors {{gratefully acknowledge / are grateful to}} [Name] for ...",
+          "The authors thank [Name] for the {{discussions / comments / technical assistance}} ...",
+          "We are indebted to [Name] for {{insightful comments on the manuscript / editorial assistance}}.",
+          "We thank [Name] for assistance with [X] and [Name] for producing ...",
+          "I would particularly like to thank [Name], who has suggested numerous improvements to ... ",
+          "We would also like to show our gratitude to our colleagues from [X], who ...",
+          "The {{image / figure}} of [X] was kindly provided by [Name].",
+          "The authors gratefully acknowledge use of the lab facilities of ...",
+          "The computational resources were provided by ..."
+        ]
+      },
+      {
+        "id": 45,
+        "title": "Funding",
+        "rawTitle": "45. Funding",
+        "examples": [
+          "Financial support for this research was provided by [Funder] [Grant no.].",
+          "This research was supported by [Funder], Grant no. [Grant no.].",
+          "This research benefited from a grant from [Funder].",
+          "The work of [Authors] was supported in part by [Funder] under Grant [Grant no.].",
+          "We acknowledge financial support from [Funder].",
+          "This work was supported by the following contracts and grants: ...",
+          "This research received no grant or contribution from any funding body. ",
+          "The author received no funding for this work.",
+          "No funding to declare."
+        ]
+      },
+      {
+        "id": 46,
+        "title": "Data availability",
+        "rawTitle": "46. Data availability",
+        "examples": [
+          "The collected data files are available on request from the corresponding author.",
+          "The data that support the findings of this study are available in [repository] at [link].",
+          "The raw and derived data files are available from [repository]: [link].",
+          "The generated data have been deposited in [repository] with the accession codes ...",
+          "Expression data are available from [repository] as outlined in the following metadata record: [link].",
+          "The data analyzed were derived from the following publicly available data sets: ...",
+          "All data underlying this study are available within the article and supporting information.",
+          "Additional analyzed data are provided in the Supplementary Information files.",
+          "The dataset will become available at [link] following a [X-month] embargo period.",
+          "The data are not openly available due to [X] and should be requested from the corresponding author.",
+          "Image data are available on request as outlined in the following metadata record: [link].",
+          "The datasets generated during this study are not made available for privacy reasons.",
+          "Due to the confidential nature of the data collected, the files have not been made available.",
+          "As no data were generated or analyzed in this study, data sharing is not applicable."
+        ]
+      },
+      {
+        "id": 47,
+        "title": "Conflict of interest",
+        "rawTitle": "47. Conflict of interest",
+        "examples": [
+          "The authors have no conflict of interest to {{report / declare}}.",
+          "[Author], [Author], and [Author] declare that they have no conflict of interest.",
+          "All co-authors declare there is no financial interest to report.",
+          "The authors have declared that no competing interests exist.",
+          "The authors certify that they have no involvement in any organization with an interest in ...",
+          "[Author] has received a research grant from ...",
+          "[Author] holds {{stock / shares}} in ...",
+          "[Author] has been {{employed by / in the board of}} ...",
+          "[Author] performs consultancy services for ...",
+          "[Author] is [X] at ..."
+        ]
+      },
+      {
+        "id": 48,
+        "title": "Thesis",
+        "rawTitle": "48. Thesis",
+        "examples": [
+          "I declare that the work presented here is my own and was conducted during my time as a PhD student at [University name].",
+          "I declare that this thesis has been composed solely by myself and that it has not been submitted, in whole or in part, in any previous application for a degree.",
+          "Except where stated otherwise by reference or acknowledgment, the work presented here is entirely my own.",
+          "I confirm that this thesis presented for the degree of [X] has been solely the result of my own work.",
+          "Several parts of this thesis have been published in peer-reviewed journals: ...",
+          "The study outlined in Chapter [X] was published in [journal] [Reference].",
+          "I am aware of and understand the university’s policy on plagiarism and I certify that this thesis is my own work, expect where indicated by referencing."
+        ]
+      }
+    ]
+  }
+]
